@@ -1,0 +1,3 @@
+CharacterCounting.cpp : Tạo frame bằng cách đếm ký tự.
+Flag_3Byte.cpp : Tạo frame dùng FLAG và byte độn.
+Flag_BIT5.cpp : Tạo frame dùng FLAG và bit độn
